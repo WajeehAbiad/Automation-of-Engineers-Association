@@ -1,0 +1,15 @@
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.dll
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.dll
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.csprojResolveAssemblyReference.cache
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.dll
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.dll
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.csprojResolveAssemblyReference.cache
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.csprojResolveAssemblyReference.cache
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.dll
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\obj\Debug\ClassEngineers.pdb
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.dll
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\ClassEngineers\bin\Debug\ClassEngineers.pdb

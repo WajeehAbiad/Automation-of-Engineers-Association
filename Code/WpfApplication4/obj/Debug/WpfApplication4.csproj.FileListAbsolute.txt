@@ -1,0 +1,191 @@
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+c:\users\wajeeh\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\DataLoad.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\DataLoad.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.baml
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.g.cs
+C:\Users\Wajeeh\Documents\Visual Studio 2015\Projects\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.baml
+H:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+H:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+H:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.dll
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.pdb
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.g.cs
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.baml
+C:\Users\EVOLUTION\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+J:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+J:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+J:\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.dll
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.pdb
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.baml
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Wajeeh\Desktop\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.pdb
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.dll
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\ClassEngineers.pdb
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.g.cs
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\App.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Coaches.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\DataLoad.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Degrees.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Deleted and Delayed Engineers.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Engineers View.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Fees.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Logo.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\MainWindow.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\New Degree.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Promotion Attention.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Qualifications.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Recommended pepole.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\Subsidies_Bills.baml
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+E:\محاضراتي\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+D:\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+D:\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+D:\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+E:\محاضراتي سنة 3\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\محاضراتي سنة 3\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\محاضراتي سنة 3\Year 3\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
+E:\Thrid Year Lectures\My Lectures\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\Thrid Year Lectures\My Lectures\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\Thrid Year Lectures\My Lectures\فصل تاني\مشروع هندسة البرمجيات\نقابة المهندسين\Engineers Organization WPF\WpfApplication4\obj\Debug\WpfApplication4.pdb
